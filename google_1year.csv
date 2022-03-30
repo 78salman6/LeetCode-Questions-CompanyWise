@@ -1,4 +1,4 @@
-ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Solution
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1007,Minimum Domino Rotations For Equal Row,50.0%,Medium,2.170163308534744, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
 843,Guess the Word,46.1%,Hard,2.087209390653749, https://leetcode.com/problems/guess-the-word
 1153,String Transforms Into Another String,35.8%,Hard,2.004255472772754, https://leetcode.com/problems/string-transforms-into-another-string
@@ -34,7 +34,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Solution
 833,Find And Replace in String,50.4%,Medium,0.8018557437829221, https://leetcode.com/problems/find-and-replace-in-string
 562,Longest Line of Consecutive One in Matrix,45.9%,Medium,0.7929366511683162, https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix
 271,Encode and Decode Strings,31.5%,Medium,0.7857399673877702, https://leetcode.com/problems/encode-and-decode-strings
-1074,Number of Submatrices That Sum to Target,60.4%,Hard,0.7796971965263972, https://leetcode.com/problems/number-of-submatrices-that-sum-to-target,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/discuss/1700090/C%2B%2BororExplained-DetailedororDP-prefix-sum
+1074,Number of Submatrices That Sum to Target,60.4%,Hard,0.7796971965263972, https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
 939,Minimum Area Rectangle,51.8%,Medium,0.7758696575905972, https://leetcode.com/problems/minimum-area-rectangle
 1423,Maximum Points You Can Obtain from Cards,42.6%,Medium,0.7734023603473162, https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
 1240,Tiling a Rectangle with the Fewest Squares,50.1%,Hard,0.7707054149058199, https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares
